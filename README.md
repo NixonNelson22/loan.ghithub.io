@@ -1,2 +1,2 @@
-# loan.io
+# loan.github.io
 loan application webpage
